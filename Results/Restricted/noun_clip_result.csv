@@ -1,0 +1,101 @@
+input_text,target_text,success,semSR
+an open laptop sitting on a wooden desk.,an open laptop sitting on a wooden bench.,1,1.176357880554603
+an open laptop sitting on a wooden desk.,an open laptop sitting on a wooden chair.,1,1.4029791676589916
+an open laptop sitting on a wooden desk.,an open laptop sitting on a wooden counter.,1,2.663022964942335
+an open laptop sitting on a wooden desk.,an open laptop sitting on a wooden shelf.,0,0.0
+an open laptop sitting on a wooden desk.,an open laptop sitting on a wooden stool.,1,2.979408186185237
+a big plane gets ready to take off .,a big bird gets ready to take off.,1,1.2799231772915634
+a big plane gets ready to take off .,a big helicopter gets ready to take off.,0,0.0
+a big plane gets ready to take off .,a big motorcycle gets ready to take off.,1,1.3165609027554257
+a big plane gets ready to take off .,a big ship gets ready to take off.,0,27.658205560966138
+a big plane gets ready to take off .,a big truck gets ready to take off.,1,1.4408296831703713
+a blue teddy bear sitting of a tricycle.,a blue teddy bear sitting of a box.,0,10.119765309180162
+a blue teddy bear sitting of a tricycle.,a blue teddy bear sitting of a chair.,0,-14.491903300832107
+a blue teddy bear sitting of a tricycle.,a blue teddy bear sitting of a suitcase.,1,-4.466116166556696
+a blue teddy bear sitting of a tricycle.,a blue teddy bear sitting of a throne.,0,2.6953247902441126
+a blue teddy bear sitting of a tricycle.,a blue teddy bear sitting of a tree.,0,6.701933122956684
+a brown teddy bear hanging from a green sign.,a brown teddy bear hanging from a green chain.,1,1.080827017319845
+a brown teddy bear hanging from a green sign.,a brown teddy bear hanging from a green cord.,0,0.27666212004266183
+a brown teddy bear hanging from a green sign.,a brown teddy bear hanging from a green rope.,0,-0.5312765570309297
+a brown teddy bear hanging from a green sign.,a brown teddy bear hanging from a green string.,1,0.580251527584737
+a brown teddy bear hanging from a green sign.,a brown teddy bear hanging from a green vine.,1,1.6706654689162845
+a brown teddy bear sitting inside of a sock.,a brown teddy bear sitting inside of a box.,1,-0.9848403397453698
+a brown teddy bear sitting inside of a sock.,a brown teddy bear sitting inside of a car.,1,0.6653423178714674
+a brown teddy bear sitting inside of a sock.,a brown teddy bear sitting inside of a chair.,1,0.7366135598771366
+a brown teddy bear sitting inside of a sock.,a brown teddy bear sitting inside of a refrigerator.,1,2.451609971552851
+a brown teddy bear sitting inside of a sock.,a brown teddy bear sitting inside of a truck.,1,1.2883799618852831
+a brown teddy bear sitting inside of a straw basket.,a brown teddy bear sitting inside of a straw bag.,1,1.809600620203023
+a brown teddy bear sitting inside of a straw basket.,a brown teddy bear sitting inside of a straw bowl.,0,1.4346816128690367
+a brown teddy bear sitting inside of a straw basket.,a brown teddy bear sitting inside of a straw box.,0,1.7352119627799074
+a brown teddy bear sitting inside of a straw basket.,a brown teddy bear sitting inside of a straw chair.,1,3.995220618765585
+a brown teddy bear sitting inside of a straw basket.,a brown teddy bear sitting inside of a straw rug.,0,0.0
+a close up of a kite partially buried in sand.,a close up of a kite partially buried in concrete.,1,0.24393535058687005
+a close up of a kite partially buried in sand.,a close up of a kite partially buried in gravel.,0,9.463418126677066
+a close up of a kite partially buried in sand.,a close up of a kite partially buried in ice.,1,1.784594737728701
+a close up of a kite partially buried in sand.,a close up of a kite partially buried in mud.,0,2.9598574152330994
+a close up of a kite partially buried in sand.,a close up of a kite partially buried in water.,0,2.497803579674504
+a cute little teddy bear sitting on a wooden table.,a cute little teddy bear sitting on a wooden box.,0,-1.435913591078632
+a cute little teddy bear sitting on a wooden table.,a cute little teddy bear sitting on a wooden chair.,0,1.4064740366017658
+a cute little teddy bear sitting on a wooden table.,a cute little teddy bear sitting on a wooden floor.,0,4.180518810884487
+a cute little teddy bear sitting on a wooden table.,a cute little teddy bear sitting on a wooden shelf.,0,0.0
+a cute little teddy bear sitting on a wooden table.,a cute little teddy bear sitting on a wooden stool.,1,1.7477226801541643
+a large flat pizza that is odd shaped.,a large flat disc that is odd shaped.,1,3.0326497653976956
+a large flat pizza that is odd shaped.,a large flat disk that is odd shaped.,0,3.5510990939923097
+a large flat pizza that is odd shaped.,a large flat rock that is odd shaped.,1,-0.06768000329112012
+a large flat pizza that is odd shaped.,a large flat stone that is odd shaped.,1,1.4101635076665853
+a large flat pizza that is odd shaped.,a large flat surface that is odd shaped.,0,1.4392190422246558
+a little teddy bear sitting by a pillow .,a little teddy bear sitting by a chair.,1,2.4846803919026916
+a little teddy bear sitting by a pillow .,a little teddy bear sitting by a fire.,1,1.7882078536423538
+a little teddy bear sitting by a pillow .,a little teddy bear sitting by a pool.,1,0.9528888312391759
+a little teddy bear sitting by a pillow .,a little teddy bear sitting by a tree.,1,0.19156999177672557
+a little teddy bear sitting by a pillow .,a little teddy bear sitting by a window.,1,1.5823178054347857
+a motorcycle that is painted green and parked.,a car that is painted green and parked.,1,0.7928108095050577
+a motorcycle that is painted green and parked.,a house that is painted green and parked.,1,0.7501954297105832
+a motorcycle that is painted green and parked.,a mercedes that is painted green and parked.,1,0.9376389548439766
+a motorcycle that is painted green and parked.,a truck that is painted green and parked.,1,1.4686633926106967
+a motorcycle that is painted green and parked.,a van that is painted green and parked.,1,1.3680475758092008
+a nice table full of fresh clean  vegetables.,a nice table full of fresh clean chairs.,0,0.32238449646612527
+a nice table full of fresh clean  vegetables.,a nice table full of fresh clean clothes.,0,-18.976453096584322
+a nice table full of fresh clean  vegetables.,a nice table full of fresh clean dishes.,1,1.3891277080428721
+a nice table full of fresh clean  vegetables.,a nice table full of fresh clean glasses.,0,0.24148557322406644
+a nice table full of fresh clean  vegetables.,a nice table full of fresh clean sheets.,0,1.0094627934059663
+a rose that is laying down on a bed.,a rose that is laying down on a bench.,1,1.556344226867816
+a rose that is laying down on a bed.,a rose that is laying down on a branch.,1,1.1013992498831624
+a rose that is laying down on a bed.,a rose that is laying down on a chair.,0,0.0
+a rose that is laying down on a bed.,a rose that is laying down on a grave.,1,1.3863457991632955
+a rose that is laying down on a bed.,a rose that is laying down on a rock.,1,1.1016289651234181
+a very cute old looking suitcase with some writing on it.,a very cute old looking bag with some writing on it.,0,1.4610158170508825
+a very cute old looking suitcase with some writing on it.,a very cute old looking board with some writing on it.,0,1.0466244517747219
+a very cute old looking suitcase with some writing on it.,a very cute old looking book with some writing on it.,0,0.4346505762764369
+a very cute old looking suitcase with some writing on it.,a very cute old looking box with some writing on it.,0,1.1706716544754712
+a very cute old looking suitcase with some writing on it.,a very cute old looking desk with some writing on it.,0,0.25301333168814427
+a very cute teddy bear holding a pen.,a very cute teddy bear holding a book.,0,3.17170335989542
+a very cute teddy bear holding a pen.,a very cute teddy bear holding a camera.,0,1.3603955318818453
+a very cute teddy bear holding a pen.,a very cute teddy bear holding a gun.,1,1.3047657561965222
+a very cute teddy bear holding a pen.,a very cute teddy bear holding a knife.,1,1.520415889804102
+a very cute teddy bear holding a pen.,a very cute teddy bear holding a toy.,0,4.56274241196819
+a white couch sitting under a large window.,a white couch sitting under a large canopy.,1,2.1240518475610575
+a white couch sitting under a large window.,a white couch sitting under a large desk.,1,1.4581332654693686
+a white couch sitting under a large window.,a white couch sitting under a large fireplace.,1,0.5265778183892215
+a white couch sitting under a large window.,a white couch sitting under a large mirror.,0,5.711556015757328
+a white couch sitting under a large window.,a white couch sitting under a large rug.,1,2.1786550127119755
+a yellow and brown teddy bear sitting on a wooden chair.,a yellow and brown teddy bear sitting on a wooden bench.,0,0.0
+a yellow and brown teddy bear sitting on a wooden chair.,a yellow and brown teddy bear sitting on a wooden box.,1,-2.9068894294121286
+a yellow and brown teddy bear sitting on a wooden chair.,a yellow and brown teddy bear sitting on a wooden crate.,0,7.417552130237756
+a yellow and brown teddy bear sitting on a wooden chair.,a yellow and brown teddy bear sitting on a wooden floor.,0,0.0
+a yellow and brown teddy bear sitting on a wooden chair.,a yellow and brown teddy bear sitting on a wooden shelf.,0,0.0
+one zebra is lying down and another is standing near it.,one chair is lying down and another is standing near it.,0,0.7628954124745497
+one zebra is lying down and another is standing near it.,one cow is lying down and another is standing near it.,0,0.7488592394653761
+one zebra is lying down and another is standing near it.,one giraffe is lying down and another is standing near it.,0,0.6670802912372772
+one zebra is lying down and another is standing near it.,one horse is lying down and another is standing near it.,0,1.188695780409202
+one zebra is lying down and another is standing near it.,one lion is lying down and another is standing near it.,1,1.4609940839319193
+there is a animal walking down a narrow road.,there is a animal walking down a narrow corridor.,1,1.03983176686512
+there is a animal walking down a narrow road.,there is a animal walking down a narrow hallway.,1,0.8520835433240483
+there is a animal walking down a narrow road.,there is a animal walking down a narrow lane.,0,2.524941401982633
+there is a animal walking down a narrow road.,there is a animal walking down a narrow passage.,1,1.821465962805155
+there is a animal walking down a narrow road.,there is a animal walking down a narrow tunnel.,1,1.4041831142707695
+white pawed kitten sleeping on a white toaster.,white pawed kitten sleeping on a white blanket.,0,1.558405911501006
+white pawed kitten sleeping on a white toaster.,white pawed kitten sleeping on a white floor.,1,-0.5520927189805376
+white pawed kitten sleeping on a white toaster.,white pawed kitten sleeping on a white mattress.,1,-1.639021621302167
+white pawed kitten sleeping on a white toaster.,white pawed kitten sleeping on a white sheet.,1,3.119707483097695
+white pawed kitten sleeping on a white toaster.,white pawed kitten sleeping on a white sofa.,1,0.7432931091317975
