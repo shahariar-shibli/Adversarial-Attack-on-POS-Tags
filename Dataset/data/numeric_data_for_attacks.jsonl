@@ -1,0 +1,100 @@
+{"input_text": "a baseball player wearing number 10 hitting a ball.", "target_text": "a baseball player wearing number 5 hitting a ball."}
+{"input_text": "a baseball player wearing number 10 hitting a ball.", "target_text": "a baseball player wearing number 1 hitting a ball."}
+{"input_text": "a baseball player wearing number 10 hitting a ball.", "target_text": "a baseball player wearing number 4 hitting a ball."}
+{"input_text": "a baseball player wearing number 10 hitting a ball.", "target_text": "a baseball player wearing number 2 hitting a ball."}
+{"input_text": "a baseball player wearing number 10 hitting a ball.", "target_text": "a baseball player wearing number 6 hitting a ball."}
+{"input_text": "this pizza is cut into eight equal slices.", "target_text": "this pizza is cut into two equal slices."}
+{"input_text": "this pizza is cut into eight equal slices.", "target_text": "this pizza is cut into three equal slices."}
+{"input_text": "this pizza is cut into eight equal slices.", "target_text": "this pizza is cut into four equal slices."}
+{"input_text": "this pizza is cut into eight equal slices.", "target_text": "this pizza is cut into five equal slices."}
+{"input_text": "this pizza is cut into eight equal slices.", "target_text": "this pizza is cut into six equal slices."}
+{"input_text": "five matching teddy bears are laying on the bed.", "target_text": "two matching teddy bears are laying on the bed."}
+{"input_text": "five matching teddy bears are laying on the bed.", "target_text": "three matching teddy bears are laying on the bed."}
+{"input_text": "five matching teddy bears are laying on the bed.", "target_text": "four matching teddy bears are laying on the bed."}
+{"input_text": "five matching teddy bears are laying on the bed.", "target_text": "six matching teddy bears are laying on the bed."}
+{"input_text": "five matching teddy bears are laying on the bed.", "target_text": "eight matching teddy bears are laying on the bed."}
+{"input_text": "five sheep are grazing on a hill in the green grass.", "target_text": "two sheep are grazing on a hill in the green grass."}
+{"input_text": "five sheep are grazing on a hill in the green grass.", "target_text": "three sheep are grazing on a hill in the green grass."}
+{"input_text": "five sheep are grazing on a hill in the green grass.", "target_text": "four sheep are grazing on a hill in the green grass."}
+{"input_text": "five sheep are grazing on a hill in the green grass.", "target_text": "six sheep are grazing on a hill in the green grass."}
+{"input_text": "five sheep are grazing on a hill in the green grass.", "target_text": "seven sheep are grazing on a hill in the green grass."}
+{"input_text": "four apples sitting in a bowl viewed from above.", "target_text": "two apples sitting in a bowl viewed from above."}
+{"input_text": "four apples sitting in a bowl viewed from above.", "target_text": "three apples sitting in a bowl viewed from above."}
+{"input_text": "four apples sitting in a bowl viewed from above.", "target_text": "five apples sitting in a bowl viewed from above."}
+{"input_text": "four apples sitting in a bowl viewed from above.", "target_text": "six apples sitting in a bowl viewed from above."}
+{"input_text": "four apples sitting in a bowl viewed from above.", "target_text": "seven apples sitting in a bowl viewed from above."}
+{"input_text": "a tray with four different types of food.", "target_text": "a tray with three different types of food."}
+{"input_text": "a tray with four different types of food.", "target_text": "a tray with two different types of food."}
+{"input_text": "a tray with four different types of food.", "target_text": "a tray with five different types of food."}
+{"input_text": "a tray with four different types of food.", "target_text": "a tray with six different types of food."}
+{"input_text": "a tray with four different types of food.", "target_text": "a tray with eight different types of food."}
+{"input_text": "there are nine fighter planes in a row in this picture.", "target_text": "there are three fighter planes in a row in this picture."}
+{"input_text": "there are nine fighter planes in a row in this picture.", "target_text": "there are two fighter planes in a row in this picture."}
+{"input_text": "there are nine fighter planes in a row in this picture.", "target_text": "there are four fighter planes in a row in this picture."}
+{"input_text": "there are nine fighter planes in a row in this picture.", "target_text": "there are six fighter planes in a row in this picture."}
+{"input_text": "there are nine fighter planes in a row in this picture.", "target_text": "there are five fighter planes in a row in this picture."}
+{"input_text": "one brown cow sitting on top of the rocky ground.", "target_text": "two brown cow sitting on top of the rocky ground."}
+{"input_text": "one brown cow sitting on top of the rocky ground.", "target_text": "three brown cow sitting on top of the rocky ground."}
+{"input_text": "one brown cow sitting on top of the rocky ground.", "target_text": "four brown cow sitting on top of the rocky ground."}
+{"input_text": "one brown cow sitting on top of the rocky ground.", "target_text": "six brown cow sitting on top of the rocky ground."}
+{"input_text": "one brown cow sitting on top of the rocky ground.", "target_text": "five brown cow sitting on top of the rocky ground."}
+{"input_text": "a polar bear is walking on snow and has one paw up in the air.", "target_text": "a polar bear is walking on snow and has two paw up in the air."}
+{"input_text": "a polar bear is walking on snow and has one paw up in the air.", "target_text": "a polar bear is walking on snow and has three paw up in the air."}
+{"input_text": "a polar bear is walking on snow and has one paw up in the air.", "target_text": "a polar bear is walking on snow and has four paw up in the air."}
+{"input_text": "a polar bear is walking on snow and has one paw up in the air.", "target_text": "a polar bear is walking on snow and has six paw up in the air."}
+{"input_text": "a polar bear is walking on snow and has one paw up in the air.", "target_text": "a polar bear is walking on snow and has five paw up in the air."}
+{"input_text": "a white bowl with seven naval oranges next to a stack of plates.", "target_text": "a white bowl with two naval oranges next to a stack of plates."}
+{"input_text": "a white bowl with seven naval oranges next to a stack of plates.", "target_text": "a white bowl with three naval oranges next to a stack of plates."}
+{"input_text": "a white bowl with seven naval oranges next to a stack of plates.", "target_text": "a white bowl with four naval oranges next to a stack of plates."}
+{"input_text": "a white bowl with seven naval oranges next to a stack of plates.", "target_text": "a white bowl with five naval oranges next to a stack of plates."}
+{"input_text": "a white bowl with seven naval oranges next to a stack of plates.", "target_text": "a white bowl with six naval oranges next to a stack of plates."}
+{"input_text": "a white bed set with seven soft pillows.", "target_text": "a white bed set with two soft pillows."}
+{"input_text": "a white bed set with seven soft pillows.", "target_text": "a white bed set with three soft pillows."}
+{"input_text": "a white bed set with seven soft pillows.", "target_text": "a white bed set with four soft pillows."}
+{"input_text": "a white bed set with seven soft pillows.", "target_text": "a white bed set with six soft pillows."}
+{"input_text": "a white bed set with seven soft pillows.", "target_text": "a white bed set with eight soft pillows."}
+{"input_text": "a table topped with six glasses of booze.", "target_text": "a table topped with two glasses of booze."}
+{"input_text": "a table topped with six glasses of booze.", "target_text": "a table topped with three glasses of booze."}
+{"input_text": "a table topped with six glasses of booze.", "target_text": "a table topped with four glasses of booze."}
+{"input_text": "a table topped with six glasses of booze.", "target_text": "a table topped with five glasses of booze."}
+{"input_text": "a table topped with six glasses of booze.", "target_text": "a table topped with seven glasses of booze."}
+{"input_text": "six candles are sticking out of a blue cake.", "target_text": "two candles are sticking out of a blue cake."}
+{"input_text": "six candles are sticking out of a blue cake.", "target_text": "three candles are sticking out of a blue cake."}
+{"input_text": "six candles are sticking out of a blue cake.", "target_text": "four candles are sticking out of a blue cake."}
+{"input_text": "six candles are sticking out of a blue cake.", "target_text": "five candles are sticking out of a blue cake."}
+{"input_text": "six candles are sticking out of a blue cake.", "target_text": "seven candles are sticking out of a blue cake."}
+{"input_text": "a small pizza cut in six sits on a plate.", "target_text": "a small pizza cut in two sits on a plate."}
+{"input_text": "a small pizza cut in six sits on a plate.", "target_text": "a small pizza cut in three sits on a plate."}
+{"input_text": "a small pizza cut in six sits on a plate.", "target_text": "a small pizza cut in one sits on a plate."}
+{"input_text": "a small pizza cut in six sits on a plate.", "target_text": "a small pizza cut in four sits on a plate."}
+{"input_text": "a small pizza cut in six sits on a plate.", "target_text": "a small pizza cut in five sits on a plate."}
+{"input_text": "three birds are looking around while on the ground.", "target_text": "two birds are looking around while on the ground."}
+{"input_text": "three birds are looking around while on the ground.", "target_text": "four birds are looking around while on the ground."}
+{"input_text": "three birds are looking around while on the ground.", "target_text": "five birds are looking around while on the ground."}
+{"input_text": "three birds are looking around while on the ground.", "target_text": "six birds are looking around while on the ground."}
+{"input_text": "three birds are looking around while on the ground.", "target_text": "seven birds are looking around while on the ground."}
+{"input_text": "a bench next to three potted plants.", "target_text": "a bench next to two potted plants."}
+{"input_text": "a bench next to three potted plants.", "target_text": "a bench next to four potted plants."}
+{"input_text": "a bench next to three potted plants.", "target_text": "a bench next to six potted plants."}
+{"input_text": "a bench next to three potted plants.", "target_text": "a bench next to five potted plants."}
+{"input_text": "a bench next to three potted plants.", "target_text": "a bench next to seven potted plants."}
+{"input_text": "three traffic lights hanging off a pole and some buildings.", "target_text": "two traffic lights hanging off a pole and some buildings."}
+{"input_text": "three traffic lights hanging off a pole and some buildings.", "target_text": "four traffic lights hanging off a pole and some buildings."}
+{"input_text": "three traffic lights hanging off a pole and some buildings.", "target_text": "six traffic lights hanging off a pole and some buildings."}
+{"input_text": "three traffic lights hanging off a pole and some buildings.", "target_text": "five traffic lights hanging off a pole and some buildings."}
+{"input_text": "three traffic lights hanging off a pole and some buildings.", "target_text": "one traffic lights hanging off a pole and some buildings."}
+{"input_text": "two ducks are swimming outdoors in the water.", "target_text": "three ducks are swimming outdoors in the water."}
+{"input_text": "two ducks are swimming outdoors in the water.", "target_text": "five ducks are swimming outdoors in the water."}
+{"input_text": "two ducks are swimming outdoors in the water.", "target_text": "four ducks are swimming outdoors in the water."}
+{"input_text": "two ducks are swimming outdoors in the water.", "target_text": "six ducks are swimming outdoors in the water."}
+{"input_text": "two ducks are swimming outdoors in the water.", "target_text": "seven ducks are swimming outdoors in the water."}
+{"input_text": "two giraffes in a zoo look at their surroundings.", "target_text": "three giraffes in a zoo look at their surroundings."}
+{"input_text": "two giraffes in a zoo look at their surroundings.", "target_text": "four giraffes in a zoo look at their surroundings."}
+{"input_text": "two giraffes in a zoo look at their surroundings.", "target_text": "five giraffes in a zoo look at their surroundings."}
+{"input_text": "two giraffes in a zoo look at their surroundings.", "target_text": "six giraffes in a zoo look at their surroundings."}
+{"input_text": "two giraffes in a zoo look at their surroundings.", "target_text": "seven giraffes in a zoo look at their surroundings."}
+{"input_text": "there are two zebras grazing side by side.", "target_text": "there are three zebras grazing side by side."}
+{"input_text": "there are two zebras grazing side by side.", "target_text": "there are four zebras grazing side by side."}
+{"input_text": "there are two zebras grazing side by side.", "target_text": "there are five zebras grazing side by side."}
+{"input_text": "there are two zebras grazing side by side.", "target_text": "there are six zebras grazing side by side."}
+{"input_text": "there are two zebras grazing side by side.", "target_text": "there are seven zebras grazing side by side."}
