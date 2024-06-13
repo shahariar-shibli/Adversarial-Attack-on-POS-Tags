@@ -1,0 +1,101 @@
+input_text,target_text,success,semSR
+a bird is flying over some rocky water.,a bird is flying over some black water.,0,-2.566302515
+a bird is flying over some rocky water.,a bird is flying over some blue water.,0,0.619187479
+a bird is flying over some rocky water.,a bird is flying over some calm water.,1,2.253637302
+a bird is flying over some rocky water.,a bird is flying over some reflective water.,0,8.135329592
+a bird is flying over some rocky water.,a bird is flying over some transparent water.,0,1.643453999
+a black kitten lays on her side beside remote controls.,a brown kitten lays on her side beside remote controls.,0,0.666094137
+a black kitten lays on her side beside remote controls.,a gray kitten lays on her side beside remote controls.,0,3.336089722
+a black kitten lays on her side beside remote controls.,a pink kitten lays on her side beside remote controls.,0,2.1130986
+a black kitten lays on her side beside remote controls.,a white kitten lays on her side beside remote controls.,1,1.613403591
+a black kitten lays on her side beside remote controls.,a yellow kitten lays on her side beside remote controls.,0,1.804780568
+"a blurry image of pizza with a fork, knife and drink.","a cheesy image of pizza with a fork, knife and drink.",1,0.805430706
+"a blurry image of pizza with a fork, knife and drink.","a clear image of pizza with a fork, knife and drink.",1,-0.048741675
+"a blurry image of pizza with a fork, knife and drink.","a dirty image of pizza with a fork, knife and drink.",1,-1.425009831
+"a blurry image of pizza with a fork, knife and drink.","a fresh image of pizza with a fork, knife and drink.",0,-0.739552931
+"a blurry image of pizza with a fork, knife and drink.","a smoky image of pizza with a fork, knife and drink.",0,0.941377659
+a brown cow lays down in the grass.,a black cow lays down in the grass.,0,5.855649848
+a brown cow lays down in the grass.,a gray cow lays down in the grass.,0,0.288029533
+a brown cow lays down in the grass.,a pink cow lays down in the grass.,1,-1.608075749
+a brown cow lays down in the grass.,a white cow lays down in the grass.,1,4.071292683
+a brown cow lays down in the grass.,a yellow cow lays down in the grass.,0,7.155551469
+a cat laying on a bench like it was sleepy.,a cat laying on a bench like it was angry.,0,0
+a cat laying on a bench like it was sleepy.,a cat laying on a bench like it was dead.,0,8.737300152
+a cat laying on a bench like it was sleepy.,a cat laying on a bench like it was happy.,0,0.074305539
+a cat laying on a bench like it was sleepy.,a cat laying on a bench like it was lazy.,0,0.43399649
+a cat laying on a bench like it was sleepy.,a cat laying on a bench like it was sad.,0,-6.690566637
+a crystal bowl filled with oranges on top of a table.,a black bowl filled with oranges on top of a table.,0,0.070239868
+a crystal bowl filled with oranges on top of a table.,a green bowl filled with oranges on top of a table.,1,1.652602884
+a crystal bowl filled with oranges on top of a table.,a large bowl filled with oranges on top of a table.,0,0.221135407
+a crystal bowl filled with oranges on top of a table.,a small bowl filled with oranges on top of a table.,0,6.89531906
+a crystal bowl filled with oranges on top of a table.,a wooden bowl filled with oranges on top of a table.,0,-2.444534374
+a dog with a lazy look lying on a bed.,a dog with a angry look lying on a bed.,0,0.295351203
+a dog with a lazy look lying on a bed.,a dog with a funny look lying on a bed.,1,1.637001233
+a dog with a lazy look lying on a bed.,a dog with a happy look lying on a bed.,1,-0.424119503
+a dog with a lazy look lying on a bed.,a dog with a sad look lying on a bed.,1,9.535679376
+a dog with a lazy look lying on a bed.,a dog with a sleepy look lying on a bed.,0,-2.695844964
+a gray bicycle is locked to some metal doors.,a black bicycle is locked to some metal doors.,0,-3.438667647
+a gray bicycle is locked to some metal doors.,a blue bicycle is locked to some metal doors.,0,2.398897275
+a gray bicycle is locked to some metal doors.,a green bicycle is locked to some metal doors.,1,1.755250249
+a gray bicycle is locked to some metal doors.,a pink bicycle is locked to some metal doors.,1,0.486985475
+a gray bicycle is locked to some metal doors.,a yellow bicycle is locked to some metal doors.,0,0
+a grumpy cat sits with objects balanced on his side.,a angry cat sits with objects balanced on his side.,0,-1.987327477
+a grumpy cat sits with objects balanced on his side.,a big cat sits with objects balanced on his side.,0,3.191284349
+a grumpy cat sits with objects balanced on his side.,a black cat sits with objects balanced on his side.,0,2.00023861
+a grumpy cat sits with objects balanced on his side.,a sleepy cat sits with objects balanced on his side.,0,1.794398813
+a grumpy cat sits with objects balanced on his side.,a small cat sits with objects balanced on his side.,0,1.21922324
+a man in a tie and a fake moustache.,a man in a tie and a black moustache.,0,2.807275067
+a man in a tie and a fake moustache.,a man in a tie and a gray moustache.,0,8.93204464
+a man in a tie and a fake moustache.,a man in a tie and a heavy moustache.,0,2.150719196
+a man in a tie and a fake moustache.,a man in a tie and a large moustache.,0,2.210241799
+a man in a tie and a fake moustache.,a man in a tie and a thick moustache.,0,3.451163869
+a person flies a kite on a stormy day.,a person flies a kite on a clear day.,0,-1.343183558
+a person flies a kite on a stormy day.,a person flies a kite on a foggy day.,1,-1.27785599
+a person flies a kite on a stormy day.,a person flies a kite on a gloomy day.,0,-2.881480917
+a person flies a kite on a stormy day.,a person flies a kite on a rainy day.,0,-8.66057165
+a person flies a kite on a stormy day.,a person flies a kite on a sunny day.,1,-0.506631579
+a picture of a triple decker  purple bus. ,a picture of a triple decker black bus.,0,0.006595914
+a picture of a triple decker  purple bus. ,a picture of a triple decker pink bus.,1,1.045497599
+a picture of a triple decker  purple bus. ,a picture of a triple decker red bus.,0,2.433754474
+a picture of a triple decker  purple bus. ,a picture of a triple decker white bus.,0,0.47267034
+a picture of a triple decker  purple bus. ,a picture of a triple decker yellow bus.,0,5.207199913
+a stack of folded clothing on the edge of a table.,a stack of clean clothing on the edge of a table.,0,0.799654385
+a stack of folded clothing on the edge of a table.,a stack of dirty clothing on the edge of a table.,0,6.406192101
+a stack of folded clothing on the edge of a table.,a stack of ironed clothing on the edge of a table.,0,-4.489069554
+a stack of folded clothing on the edge of a table.,a stack of organized clothing on the edge of a table.,1,-6.504049653
+a stack of folded clothing on the edge of a table.,a stack of unfolded clothing on the edge of a table.,0,-4.455304399
+a strange-looking motorcycle is parked by the curb.,a black motorcycle is parked by the curb.,0,1.853039148
+a strange-looking motorcycle is parked by the curb.,a gray motorcycle is parked by the curb.,0,-4.300568335
+a strange-looking motorcycle is parked by the curb.,a large motorcycle is parked by the curb.,0,8.250113396
+a strange-looking motorcycle is parked by the curb.,a small motorcycle is parked by the curb.,0,-4.00074961
+a strange-looking motorcycle is parked by the curb.,a yellow motorcycle is parked by the curb.,0,1.18858836
+a train car with blue graffiti on the side of it .,a train car with black graffiti on the side of it.,0,-4.184435798
+a train car with blue graffiti on the side of it .,a train car with gray graffiti on the side of it.,0,0.291366699
+a train car with blue graffiti on the side of it .,a train car with green graffiti on the side of it.,0,1.583036407
+a train car with blue graffiti on the side of it .,a train car with pink graffiti on the side of it.,1,0.80285826
+a train car with blue graffiti on the side of it .,a train car with white graffiti on the side of it.,0,1.166540444
+a view of the harbor with ships moored on a very foggy day.,a view of the harbor with ships moored on a very clear day.,0,-0.420336897
+a view of the harbor with ships moored on a very foggy day.,a view of the harbor with ships moored on a very gloomy day.,0,2.722645316
+a view of the harbor with ships moored on a very foggy day.,a view of the harbor with ships moored on a very hot day.,0,1.547758119
+a view of the harbor with ships moored on a very foggy day.,a view of the harbor with ships moored on a very rainy day.,0,1.091528517
+a view of the harbor with ships moored on a very foggy day.,a view of the harbor with ships moored on a very sunny day.,1,0.715865319
+a yellow bus is parked near people on the side of the road.,a black bus is parked near people on the side of the road.,0,2.326474001
+a yellow bus is parked near people on the side of the road.,a gray bus is parked near people on the side of the road.,0,1.344987744
+a yellow bus is parked near people on the side of the road.,a green bus is parked near people on the side of the road.,0,1.221822587
+a yellow bus is parked near people on the side of the road.,a purple bus is parked near people on the side of the road.,1,0.813097993
+a yellow bus is parked near people on the side of the road.,a white bus is parked near people on the side of the road.,0,3.63510424
+grey bird in a wooden basket eating bread.,black bird in a wooden basket eating bread.,1,-0.847638988
+grey bird in a wooden basket eating bread.,blue bird in a wooden basket eating bread.,0,-3.993020699
+grey bird in a wooden basket eating bread.,green bird in a wooden basket eating bread.,1,2.068896437
+grey bird in a wooden basket eating bread.,red bird in a wooden basket eating bread.,1,0.351737056
+grey bird in a wooden basket eating bread.,white bird in a wooden basket eating bread.,0,-0.595255548
+there are orange beach umbrellas lined up on a beach.,there are black beach umbrellas lined up on a beach.,0,3.432316084
+there are orange beach umbrellas lined up on a beach.,there are blue beach umbrellas lined up on a beach.,0,1.32871069
+there are orange beach umbrellas lined up on a beach.,there are gray beach umbrellas lined up on a beach.,0,2.717688801
+there are orange beach umbrellas lined up on a beach.,there are red beach umbrellas lined up on a beach.,1,-3.100667858
+there are orange beach umbrellas lined up on a beach.,there are yellow beach umbrellas lined up on a beach.,0,5.187648906
+this pizza is cut into eight equal slices.,this pizza is cut into eight different slices.,0,2.801347926
+this pizza is cut into eight equal slices.,this pizza is cut into eight large slices.,0,1.501275169
+this pizza is cut into eight equal slices.,this pizza is cut into eight small slices.,0,0.605632707
+this pizza is cut into eight equal slices.,this pizza is cut into eight thin slices.,0,6.152233696
+this pizza is cut into eight equal slices.,this pizza is cut into eight unequal slices.,0,11.11403253
