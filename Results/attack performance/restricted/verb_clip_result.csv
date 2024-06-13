@@ -1,0 +1,101 @@
+input_text,target_text,success,semSR
+a black and white cat hugging a handbag.,a black and white cat carrying a handbag.,0,1.136939829
+a black and white cat hugging a handbag.,a black and white cat following a handbag.,0,-1.96515506
+a black and white cat hugging a handbag.,a black and white cat hiding a handbag.,0,-10.04519243
+a black and white cat hugging a handbag.,a black and white cat sitting a handbag.,0,-2.744272634
+a black and white cat hugging a handbag.,a black and white cat watching a handbag.,0,8.349356463
+a black duck floating in a wavy pond.,a black duck eating in a wavy pond.,0,1.205536813
+a black duck floating in a wavy pond.,a black duck fishing in a wavy pond.,0,-0.40316969
+a black duck floating in a wavy pond.,a black duck flying in a wavy pond.,0,0.770444944
+a black duck floating in a wavy pond.,a black duck landing in a wavy pond.,0,-1.101791303
+a black duck floating in a wavy pond.,a black duck playing in a wavy pond.,0,-19.08082976
+a boy balancing on a skateboard in a parking lot.,a boy carrying on a skateboard in a parking lot.,0,-3.572880767
+a boy balancing on a skateboard in a parking lot.,a boy jumping on a skateboard in a parking lot.,0,-0.018366957
+a boy balancing on a skateboard in a parking lot.,a boy riding on a skateboard in a parking lot.,0,4.496210949
+a boy balancing on a skateboard in a parking lot.,a boy sitting on a skateboard in a parking lot.,0,0.532685021
+a boy balancing on a skateboard in a parking lot.,a boy standing on a skateboard in a parking lot.,0,11.96188843
+a brown bear investigating something on top of a rock.,a brown bear carrying something on top of a rock.,0,4.338838456
+a brown bear investigating something on top of a rock.,a brown bear dropping something on top of a rock.,0,2.540066718
+a brown bear investigating something on top of a rock.,a brown bear eating something on top of a rock.,0,4.146766048
+a brown bear investigating something on top of a rock.,a brown bear hiding something on top of a rock.,0,10.30353445
+a brown bear investigating something on top of a rock.,a brown bear kicking something on top of a rock.,0,1.805190703
+a bunch of birds sitting in a bread basket.,a bunch of birds hiding in a bread basket.,0,1.149796581
+a bunch of birds sitting in a bread basket.,a bunch of birds lying in a bread basket.,0,-6.757304923
+a bunch of birds sitting in a bread basket.,a bunch of birds nesting in a bread basket.,0,-2.748282696
+a bunch of birds sitting in a bread basket.,a bunch of birds sleeping in a bread basket.,0,0
+a bunch of birds sitting in a bread basket.,a bunch of birds standing in a bread basket.,0,12.66720463
+a cat chases a computer mouse across the floor.,a cat carrying a computer mouse across the floor.,1,0.872233011
+a cat chases a computer mouse across the floor.,a cat kicking a computer mouse across the floor.,0,4.005788412
+a cat chases a computer mouse across the floor.,a cat sliding a computer mouse across the floor.,0,0.885387062
+a cat chases a computer mouse across the floor.,a cat tossed a computer mouse across the floor.,0,1.547235153
+a cat chases a computer mouse across the floor.,a cat watching a computer mouse across the floor.,0,0.158525535
+a cat in a living room with a burning fireplace.,a cat in a living room with a cooled fireplace.,0,1.760480465
+a cat in a living room with a burning fireplace.,a cat in a living room with a cozy fireplace.,0,4.25647882
+a cat in a living room with a burning fireplace.,a cat in a living room with a floating fireplace.,0,2.370445185
+a cat in a living room with a burning fireplace.,a cat in a living room with a outed fireplace.,0,-0.366601702
+a cat in a living room with a burning fireplace.,a cat in a living room with a painting fireplace.,0,3.636119031
+a cat napping inside of a large planter.,a cat eating inside of a large planter.,0,2.83560515
+a cat napping inside of a large planter.,a cat hiding inside of a large planter.,0,2.101860654
+a cat napping inside of a large planter.,a cat playing inside of a large planter.,0,0.98826183
+a cat napping inside of a large planter.,a cat sitting inside of a large planter.,0,4.344270448
+a cat napping inside of a large planter.,a cat watching inside of a large planter.,1,2.333570484
+a cat peeks its head out of curtains.,a cat hiding its head out of curtains.,0,-1.422657956
+a cat peeks its head out of curtains.,a cat poking its head out of curtains.,0,7.96039732
+a cat peeks its head out of curtains.,a cat popped its head out of curtains.,0,5.076466904
+a cat peeks its head out of curtains.,a cat pulled its head out of curtains.,0,0.572155058
+a cat peeks its head out of curtains.,a cat sitting its head out of curtains.,0,-0.67027692
+a dog carrying a ball in his mouth on the sand.,a dog catching a ball in his mouth on the sand.,0,0.91623315
+a dog carrying a ball in his mouth on the sand.,a dog playing a ball in his mouth on the sand.,0,10.59733694
+a dog carrying a ball in his mouth on the sand.,a dog putting a ball in his mouth on the sand.,0,22.62458779
+a dog carrying a ball in his mouth on the sand.,a dog sniffing a ball in his mouth on the sand.,0,-6.162912614
+a dog carrying a ball in his mouth on the sand.,a dog throwing a ball in his mouth on the sand.,0,19.97114009
+a giraffe lying on the ground in a zoo pin.,a giraffe eating on the ground in a zoo pin.,0,-15.41876716
+a giraffe lying on the ground in a zoo pin.,a giraffe hiding on the ground in a zoo pin.,0,-0.861666888
+a giraffe lying on the ground in a zoo pin.,a giraffe sitting on the ground in a zoo pin.,0,3.821299423
+a giraffe lying on the ground in a zoo pin.,a giraffe walking on the ground in a zoo pin.,0,-1.512643872
+a giraffe lying on the ground in a zoo pin.,a giraffe watching on the ground in a zoo pin.,0,-4.514055794
+a girl in white shirt painting a black umbrella.,a girl in white shirt carrying a black umbrella.,1,1.488871273
+a girl in white shirt painting a black umbrella.,a girl in white shirt following a black umbrella.,0,0.731075297
+a girl in white shirt painting a black umbrella.,a girl in white shirt holding a black umbrella.,0,-1.702004667
+a girl in white shirt painting a black umbrella.,a girl in white shirt opening a black umbrella.,0,-0.627156488
+a girl in white shirt painting a black umbrella.,a girl in white shirt watching a black umbrella.,1,0.683628131
+a goat attacking a young boy on the beach.,a goat carrying a young boy on the beach.,0,2.723603892
+a goat attacking a young boy on the beach.,a goat chasing a young boy on the beach.,0,-12.76027607
+a goat attacking a young boy on the beach.,a goat following a young boy on the beach.,0,1.1766403
+a goat attacking a young boy on the beach.,a goat hugging a young boy on the beach.,1,6.722403853
+a goat attacking a young boy on the beach.,a goat watching a young boy on the beach.,0,8.833381075
+a group of scattered sheep move down a country path.,a group of scattered sheep eating down a country path.,0,3.880636199
+a group of scattered sheep move down a country path.,a group of scattered sheep hiding down a country path.,0,1.903432439
+a group of scattered sheep move down a country path.,a group of scattered sheep investigating down a country path.,0,8.269120082
+a group of scattered sheep move down a country path.,a group of scattered sheep lying down a country path.,1,3.922269782
+a group of scattered sheep move down a country path.,a group of scattered sheep standing down a country path.,0,2.678274577
+a large giraffe following her kid into a room.,a large giraffe brought her kid into a room.,0,11.33610323
+a large giraffe following her kid into a room.,a large giraffe leading her kid into a room.,0,-1.195216955
+a large giraffe following her kid into a room.,a large giraffe pulled her kid into a room.,0,-2.010062172
+a large giraffe following her kid into a room.,a large giraffe pushed her kid into a room.,0,-3.806280065
+a large giraffe following her kid into a room.,a large giraffe walking her kid into a room.,0,-0.598347119
+a large group of people buying oranges at a stand.,a large group of people eating oranges at a stand.,0,0.437613094
+a large group of people buying oranges at a stand.,a large group of people picking oranges at a stand.,1,4.788457995
+a large group of people buying oranges at a stand.,a large group of people placing oranges at a stand.,0,4.8251445
+a large group of people buying oranges at a stand.,a large group of people selling oranges at a stand.,0,-6.608682555
+a large group of people buying oranges at a stand.,a large group of people watching oranges at a stand.,0,3.123751222
+a polar bear walking on some rocks .,a polar bear landed on some rocks.,0,7.61623013
+a polar bear walking on some rocks .,a polar bear lying on some rocks.,1,1.656635761
+a polar bear walking on some rocks .,a polar bear sitting on some rocks.,0,2.171683444
+a polar bear walking on some rocks .,a polar bear sleeping on some rocks.,1,1.451719755
+a polar bear walking on some rocks .,a polar bear standing on some rocks.,0,1.247652185
+a white and black bird captured in flight.,a white and black bird flying in flight.,0,6.982864105
+a white and black bird captured in flight.,a white and black bird hiding in flight.,0,-6.193354872
+a white and black bird captured in flight.,a white and black bird sitting in flight.,0,3.489246285
+a white and black bird captured in flight.,a white and black bird sleeping in flight.,0,1.605056378
+a white and black bird captured in flight.,a white and black bird swooping in flight.,0,3.010829846
+pretty cat hiding inside of a brown suitcase.,pretty cat eating inside of a brown suitcase.,1,1.602562421
+pretty cat hiding inside of a brown suitcase.,pretty cat lying inside of a brown suitcase.,0,2.828691946
+pretty cat hiding inside of a brown suitcase.,pretty cat sitting inside of a brown suitcase.,0,13.86724379
+pretty cat hiding inside of a brown suitcase.,pretty cat sleeping inside of a brown suitcase.,1,0.288732278
+pretty cat hiding inside of a brown suitcase.,pretty cat watching inside of a brown suitcase.,0,10.37356979
+white teddy bear filming himself through a mirror.,white teddy bear appraising himself through a mirror.,0,5.525443215
+white teddy bear filming himself through a mirror.,white teddy bear examining himself through a mirror.,0,-3.005435516
+white teddy bear filming himself through a mirror.,white teddy bear painting himself through a mirror.,1,0.831576322
+white teddy bear filming himself through a mirror.,white teddy bear rubbing himself through a mirror.,0,1.234707123
+white teddy bear filming himself through a mirror.,white teddy bear watching himself through a mirror.,0,6.743403012
