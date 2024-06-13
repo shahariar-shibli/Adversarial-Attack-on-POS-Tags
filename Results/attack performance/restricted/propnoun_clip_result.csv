@@ -1,0 +1,101 @@
+input_text,target_text,success,semSR
+"a big, old, dirty, yellow Mercedes work truck.","a big, old, dirty, yellow Chevy work truck.",0,0.513542275
+"a big, old, dirty, yellow Mercedes work truck.","a big, old, dirty, yellow Chinese work truck.",0,11.81109476
+"a big, old, dirty, yellow Mercedes work truck.","a big, old, dirty, yellow Christmas work truck.",0,-1.08430975
+"a big, old, dirty, yellow Mercedes work truck.","a big, old, dirty, yellow Ford work truck.",0,1.518854455
+"a big, old, dirty, yellow Mercedes work truck.","a big, old, dirty, yellow Honda work truck.",0,0.046777364
+a bunch of people standing in the street near the White-House.,a bunch of people standing in the street near the Amazon.,1,0.884695179
+a bunch of people standing in the street near the White-House.,a bunch of people standing in the street near the Chinese.,1,1.044892695
+a bunch of people standing in the street near the White-House.,a bunch of people standing in the street near the Halloween.,0,4.735458118
+a bunch of people standing in the street near the White-House.,a bunch of people standing in the street near the Honda.,0,0
+a bunch of people standing in the street near the White-House.,a bunch of people standing in the street near the Mercedes.,0,4.409424941
+a dog in a Santa hat on a pillow.,a dog in a Bowler hat on a pillow.,0,3.393879161
+a dog in a Santa hat on a pillow.,a dog in a Chinese hat on a pillow.,0,-2.152381947
+a dog in a Santa hat on a pillow.,a dog in a Christmas hat on a pillow.,0,-1.199702224
+a dog in a Santa hat on a pillow.,a dog in a Floppy hat on a pillow.,1,1.989578535
+a dog in a Santa hat on a pillow.,a dog in a Halloween hat on a pillow.,0,1.068422236
+a hand holding a Blackberry phone taking a picture.,a hand holding a Chinese phone taking a picture.,1,1.991645973
+a hand holding a Blackberry phone taking a picture.,a hand holding a Christmas phone taking a picture.,0,0
+a hand holding a Blackberry phone taking a picture.,a hand holding a Mercedes phone taking a picture.,1,-0.992098914
+a hand holding a Blackberry phone taking a picture.,a hand holding a Mobile phone taking a picture.,0,0
+a hand holding a Blackberry phone taking a picture.,a hand holding a Santa phone taking a picture.,0,0
+a Honda motorcycle with a helmet on the back is parked outside.,a Batman motorcycle with a helmet on the back is parked outside.,0,0
+a Honda motorcycle with a helmet on the back is parked outside.,a Chinese motorcycle with a helmet on the back is parked outside.,0,-4.03453679
+a Honda motorcycle with a helmet on the back is parked outside.,a Gray motorcycle with a helmet on the back is parked outside.,0,-3.384382461
+a Honda motorcycle with a helmet on the back is parked outside.,a Mercedes motorcycle with a helmet on the back is parked outside.,1,3.843185541
+a Honda motorcycle with a helmet on the back is parked outside.,a Santa motorcycle with a helmet on the back is parked outside.,1,-0.631999837
+a lady in a black and orange Halloween costume.,a lady in a black and orange Batman costume.,0,-9.212734118
+a lady in a black and orange Halloween costume.,a lady in a black and orange Chinese costume.,1,1.474162493
+a lady in a black and orange Halloween costume.,a lady in a black and orange Christmas costume.,1,-0.709380569
+a lady in a black and orange Halloween costume.,a lady in a black and orange Fairy costume.,1,0.62853224
+a lady in a black and orange Halloween costume.,a lady in a black and orange Santa costume.,0,0.355599126
+a large building has a Glass business logo on it.,a large building has a Chinese business logo on it.,1,2.035997089
+a large building has a Glass business logo on it.,a large building has a Christmas business logo on it.,1,1.226172408
+a large building has a Glass business logo on it.,a large building has a Honda business logo on it.,0,2.585959472
+a large building has a Glass business logo on it.,a large building has a Mercedes business logo on it.,0,0.990817488
+a large building has a Glass business logo on it.,a large building has a Microsoft business logo on it.,0,-3.223443584
+a large tour bus decorated with Coca-Cola logos.,a large tour bus decorated with Chinese logos.,0,1.073814209
+a large tour bus decorated with Coca-Cola logos.,a large tour bus decorated with Disney logos.,0,0
+a large tour bus decorated with Coca-Cola logos.,a large tour bus decorated with Honda logos.,0,0.683285445
+a large tour bus decorated with Coca-Cola logos.,a large tour bus decorated with Microsoft logos.,0,1.757395447
+a large tour bus decorated with Coca-Cola logos.,a large tour bus decorated with Nazi logos.,0,0.952809608
+"a mouse sitting on book, with a Microsoft logo on it.","a mouse sitting on book, with a Batman logo on it.",0,2.688819567
+"a mouse sitting on book, with a Microsoft logo on it.","a mouse sitting on book, with a Chinese logo on it.",1,0.922426728
+"a mouse sitting on book, with a Microsoft logo on it.","a mouse sitting on book, with a Google logo on it.",0,0.977985844
+"a mouse sitting on book, with a Microsoft logo on it.","a mouse sitting on book, with a Nintendo logo on it.",0,1.711256404
+"a mouse sitting on book, with a Microsoft logo on it.","a mouse sitting on book, with a Smiley logo on it.",0,-0.52487543
+a piece of luggage painted with the Eiffel-Tower on the side of it.,a piece of luggage painted with the Amazon on the side of it.,0,0.009957062
+a piece of luggage painted with the Eiffel-Tower on the side of it.,a piece of luggage painted with the Chinese on the side of it.,0,0.559938216
+a piece of luggage painted with the Eiffel-Tower on the side of it.,a piece of luggage painted with the Hebrew on the side of it.,0,0.295524865
+a piece of luggage painted with the Eiffel-Tower on the side of it.,a piece of luggage painted with the Santa on the side of it.,0,1.754576018
+a piece of luggage painted with the Eiffel-Tower on the side of it.,a piece of luggage painted with the Valentine on the side of it.,0,5.518792229
+a sheet of stickers for a keyboard with Hebrew letters.,a sheet of stickers for a keyboard with Chinese letters.,1,0.839789752
+a sheet of stickers for a keyboard with Hebrew letters.,a sheet of stickers for a keyboard with Greek letters.,0,0.588805564
+a sheet of stickers for a keyboard with Hebrew letters.,a sheet of stickers for a keyboard with Latin letters.,0,1.073172268
+a sheet of stickers for a keyboard with Hebrew letters.,a sheet of stickers for a keyboard with Microsoft letters.,0,0.974258382
+a sheet of stickers for a keyboard with Hebrew letters.,a sheet of stickers for a keyboard with Saxon letters.,0,-1.361546268
+a table set for a traditional Thanksgiving dinner.,a table set for a traditional Chinese dinner.,1,3.828961422
+a table set for a traditional Thanksgiving dinner.,a table set for a traditional Christmas dinner.,1,-1.318731195
+a table set for a traditional Thanksgiving dinner.,a table set for a traditional French dinner.,0,0.869462649
+a table set for a traditional Thanksgiving dinner.,a table set for a traditional Irish dinner.,0,1.698510808
+a table set for a traditional Thanksgiving dinner.,a table set for a traditional Santa dinner.,1,0.620726642
+a teddy bear holding onto a Nikon camera.,a teddy bear holding onto a Chinese camera.,1,-0.241070197
+a teddy bear holding onto a Nikon camera.,a teddy bear holding onto a Christmas camera.,0,4.013880509
+a teddy bear holding onto a Nikon camera.,a teddy bear holding onto a Halloween camera.,1,1.550009211
+a teddy bear holding onto a Nikon camera.,a teddy bear holding onto a Mercedes camera.,1,0.617692027
+a teddy bear holding onto a Nikon camera.,a teddy bear holding onto a Microsoft camera.,0,-8.156883401
+a Valentine's day theme stuffed bear in front of a heart.,a Batman's day theme stuffed bear in front of a heart.,1,-1.631970011
+a Valentine's day theme stuffed bear in front of a heart.,a Christmas's day theme stuffed bear in front of a heart.,0,-0.078825469
+a Valentine's day theme stuffed bear in front of a heart.,a Grandma's day theme stuffed bear in front of a heart.,0,2.593461844
+a Valentine's day theme stuffed bear in front of a heart.,a Griffith's day theme stuffed bear in front of a heart.,0,0.372929887
+a Valentine's day theme stuffed bear in front of a heart.,a Santa's day theme stuffed bear in front of a heart.,0,0.354147668
+a white FedEx truck parked in front of a tall building.,a white Chevy truck parked in front of a tall building.,1,1.769195776
+a white FedEx truck parked in front of a tall building.,a white Honda truck parked in front of a tall building.,1,1.25717234
+a white FedEx truck parked in front of a tall building.,a white Mack truck parked in front of a tall building.,0,-3.208057472
+a white FedEx truck parked in front of a tall building.,a white Mercedes truck parked in front of a tall building.,0,-1.563988077
+a white FedEx truck parked in front of a tall building.,a white Volvo truck parked in front of a tall building.,0,1.518928525
+a young boy wearing a Batman costume while riding a skateboard.,a young boy wearing a Chinese costume while riding a skateboard.,1,0.94630462
+a young boy wearing a Batman costume while riding a skateboard.,a young boy wearing a Christmas costume while riding a skateboard.,0,2.528665035
+a young boy wearing a Batman costume while riding a skateboard.,a young boy wearing a Halloween costume while riding a skateboard.,0,3.888540884
+a young boy wearing a Batman costume while riding a skateboard.,a young boy wearing a Santa costume while riding a skateboard.,0,1.300743993
+a young boy wearing a Batman costume while riding a skateboard.,a young boy wearing a Superman costume while riding a skateboard.,0,1.750561267
+city neon signs at dusk with a lot of those signs in Chinese.,city neon signs at dusk with a lot of those signs in Christmas.,1,1.153719541
+city neon signs at dusk with a lot of those signs in Chinese.,city neon signs at dusk with a lot of those signs in Egypt.,1,1.368881757
+city neon signs at dusk with a lot of those signs in Chinese.,city neon signs at dusk with a lot of those signs in Halloween.,0,0
+city neon signs at dusk with a lot of those signs in Chinese.,city neon signs at dusk with a lot of those signs in Hebrew.,0,8.818828082
+city neon signs at dusk with a lot of those signs in Chinese.,city neon signs at dusk with a lot of those signs in Saxon.,0,3.818027641
+living room decorated for Christmas with gifts galore.,living room decorated for Calder with gifts galore.,1,-0.901925313
+living room decorated for Christmas with gifts galore.,living room decorated for Chinese with gifts galore.,1,1.167965248
+living room decorated for Christmas with gifts galore.,living room decorated for Halloween with gifts galore.,1,0.414910987
+living room decorated for Christmas with gifts galore.,living room decorated for Santa with gifts galore.,0,-3.601684
+living room decorated for Christmas with gifts galore.,living room decorated for Valentine with gifts galore.,0,0
+three giraffes standing in front of some artwork depicting ancient Egypt.,three giraffes standing in front of some artwork depicting ancient Amazon.,0,2.436519219
+three giraffes standing in front of some artwork depicting ancient Egypt.,three giraffes standing in front of some artwork depicting ancient Chinese.,0,6.780680309
+three giraffes standing in front of some artwork depicting ancient Egypt.,three giraffes standing in front of some artwork depicting ancient Greece.,0,0
+three giraffes standing in front of some artwork depicting ancient Egypt.,three giraffes standing in front of some artwork depicting ancient Hebrew.,0,4.164443928
+three giraffes standing in front of some artwork depicting ancient Egypt.,three giraffes standing in front of some artwork depicting ancient Rome.,0,0
+two bananas and an apple are next to an Amazon box.,two bananas and an Apple are next to an Apple box.,0,0
+two bananas and an apple are next to an Amazon box.,two bananas and an apple are next to an Chinese box.,1,3.639530907
+two bananas and an apple are next to an Amazon box.,two bananas and an apple are next to an Christmas box.,1,0.872902448
+two bananas and an apple are next to an Amazon box.,two bananas and an apple are next to an Egypt box.,0,1.62320892
+two bananas and an apple are next to an Amazon box.,two bananas and an apple are next to an Olive box.,0,-1.394553717
