@@ -1,5 +1,5 @@
 # Adversarial Attack on POS Tags
- 
+
 Recent advances in text-to-image (T2I) models have shown remarkable progress in generating images from text descriptions. 
 However, these models remain vulnerable to subtle modifications in the input text, known as adversarial attacks. 
 Prior woks have primarily focused on perturbing objects (specifically nouns) in the text prompt to generate adversarial 
