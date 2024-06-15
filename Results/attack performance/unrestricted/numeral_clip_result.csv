@@ -1,0 +1,101 @@
+input_text,target_text,success,semSR
+a baseball player wearing number 10 hitting a ball.,a baseball player wearing number 1 hitting a ball.,0,7.65966429
+a baseball player wearing number 10 hitting a ball.,a baseball player wearing number 2 hitting a ball.,0,4.452268564
+a baseball player wearing number 10 hitting a ball.,a baseball player wearing number 4 hitting a ball.,0,-8.62038818
+a baseball player wearing number 10 hitting a ball.,a baseball player wearing number 5 hitting a ball.,0,7.926255121
+a baseball player wearing number 10 hitting a ball.,a baseball player wearing number 6 hitting a ball.,0,7.585066378
+a bench next to three potted plants.,a bench next to five potted plants.,0,2.275980003
+a bench next to three potted plants.,a bench next to four potted plants.,0,0.893184755
+a bench next to three potted plants.,a bench next to seven potted plants.,0,0.571273526
+a bench next to three potted plants.,a bench next to six potted plants.,0,-6.298517943
+a bench next to three potted plants.,a bench next to two potted plants.,0,5.539784874
+a polar bear is walking on snow and has one paw up in the air.,a polar bear is walking on snow and has five paw up in the air.,0,32.67073168
+a polar bear is walking on snow and has one paw up in the air.,a polar bear is walking on snow and has four paw up in the air.,0,-3.359874202
+a polar bear is walking on snow and has one paw up in the air.,a polar bear is walking on snow and has six paw up in the air.,0,11.86870993
+a polar bear is walking on snow and has one paw up in the air.,a polar bear is walking on snow and has three paw up in the air.,0,18.23009443
+a polar bear is walking on snow and has one paw up in the air.,a polar bear is walking on snow and has two paw up in the air.,0,14.82776209
+a small pizza cut in six sits on a plate.,a small pizza cut in five sits on a plate.,0,29.04391757
+a small pizza cut in six sits on a plate.,a small pizza cut in four sits on a plate.,0,-5.391964946
+a small pizza cut in six sits on a plate.,a small pizza cut in one sits on a plate.,0,2.950258255
+a small pizza cut in six sits on a plate.,a small pizza cut in three sits on a plate.,0,6.161567205
+a small pizza cut in six sits on a plate.,a small pizza cut in two sits on a plate.,0,-1.479326751
+a table topped with six glasses of booze.,a table topped with five glasses of booze.,0,16.40324932
+a table topped with six glasses of booze.,a table topped with four glasses of booze.,0,4.021444396
+a table topped with six glasses of booze.,a table topped with seven glasses of booze.,0,4.714611535
+a table topped with six glasses of booze.,a table topped with three glasses of booze.,0,2.459801569
+a table topped with six glasses of booze.,a table topped with two glasses of booze.,0,1.186318891
+a tray with four different types of food.,a tray with eight different types of food.,0,-1.420365866
+a tray with four different types of food.,a tray with five different types of food.,0,-6.101317211
+a tray with four different types of food.,a tray with six different types of food.,0,-7.71369293
+a tray with four different types of food.,a tray with three different types of food.,0,-0.890209074
+a tray with four different types of food.,a tray with two different types of food.,0,5.310871124
+a white bed set with seven soft pillows.,a white bed set with eight soft pillows.,0,23.84153686
+a white bed set with seven soft pillows.,a white bed set with four soft pillows.,0,-29.21607705
+a white bed set with seven soft pillows.,a white bed set with six soft pillows.,0,29.01705564
+a white bed set with seven soft pillows.,a white bed set with three soft pillows.,0,4.518997571
+a white bed set with seven soft pillows.,a white bed set with two soft pillows.,0,4.13674333
+a white bowl with seven naval oranges next to a stack of plates.,a white bowl with five naval oranges next to a stack of plates.,0,1.19489027
+a white bowl with seven naval oranges next to a stack of plates.,a white bowl with four naval oranges next to a stack of plates.,0,11.45915207
+a white bowl with seven naval oranges next to a stack of plates.,a white bowl with six naval oranges next to a stack of plates.,0,-18.681853
+a white bowl with seven naval oranges next to a stack of plates.,a white bowl with three naval oranges next to a stack of plates.,0,1.301333312
+a white bowl with seven naval oranges next to a stack of plates.,a white bowl with two naval oranges next to a stack of plates.,0,2.183710568
+five matching teddy bears are laying on the bed.,eight matching teddy bears are laying on the bed.,0,2.421984031
+five matching teddy bears are laying on the bed.,four matching teddy bears are laying on the bed.,0,5.627313455
+five matching teddy bears are laying on the bed.,six matching teddy bears are laying on the bed.,0,2.798886555
+five matching teddy bears are laying on the bed.,three matching teddy bears are laying on the bed.,0,1.772942965
+five matching teddy bears are laying on the bed.,two matching teddy bears are laying on the bed.,0,2.19489025
+five sheep are grazing on a hill in the green grass.,four sheep are grazing on a hill in the green grass.,0,-4.684731158
+five sheep are grazing on a hill in the green grass.,seven sheep are grazing on a hill in the green grass.,0,4.071013948
+five sheep are grazing on a hill in the green grass.,six sheep are grazing on a hill in the green grass.,0,-3.49961914
+five sheep are grazing on a hill in the green grass.,three sheep are grazing on a hill in the green grass.,0,-2.576780333
+five sheep are grazing on a hill in the green grass.,two sheep are grazing on a hill in the green grass.,0,4.65692331
+four apples sitting in a bowl viewed from above.,five apples sitting in a bowl viewed from above.,0,-7.002331102
+four apples sitting in a bowl viewed from above.,seven apples sitting in a bowl viewed from above.,0,-1.585604199
+four apples sitting in a bowl viewed from above.,six apples sitting in a bowl viewed from above.,0,1.2872334
+four apples sitting in a bowl viewed from above.,three apples sitting in a bowl viewed from above.,0,16.95507776
+four apples sitting in a bowl viewed from above.,two apples sitting in a bowl viewed from above.,0,9.935046101
+one brown cow sitting on top of the rocky ground.,five brown cow sitting on top of the rocky ground.,1,4.867829797
+one brown cow sitting on top of the rocky ground.,four brown cow sitting on top of the rocky ground.,1,1.554585
+one brown cow sitting on top of the rocky ground.,six brown cow sitting on top of the rocky ground.,0,1.943361708
+one brown cow sitting on top of the rocky ground.,three brown cow sitting on top of the rocky ground.,1,2.002234993
+one brown cow sitting on top of the rocky ground.,two brown cow sitting on top of the rocky ground.,1,2.289927342
+six candles are sticking out of a blue cake.,five candles are sticking out of a blue cake.,0,-3.151260992
+six candles are sticking out of a blue cake.,four candles are sticking out of a blue cake.,0,-12.63453161
+six candles are sticking out of a blue cake.,seven candles are sticking out of a blue cake.,0,3.144659396
+six candles are sticking out of a blue cake.,three candles are sticking out of a blue cake.,0,-1.105253536
+six candles are sticking out of a blue cake.,two candles are sticking out of a blue cake.,0,-12.14953797
+there are nine fighter planes in a row in this picture.,there are five fighter planes in a row in this picture.,0,0.130829415
+there are nine fighter planes in a row in this picture.,there are four fighter planes in a row in this picture.,0,1.817467032
+there are nine fighter planes in a row in this picture.,there are six fighter planes in a row in this picture.,0,-21.95090152
+there are nine fighter planes in a row in this picture.,there are three fighter planes in a row in this picture.,0,-2.899685619
+there are nine fighter planes in a row in this picture.,there are two fighter planes in a row in this picture.,0,4.540166348
+there are two zebras grazing side by side.,there are five zebras grazing side by side.,0,0.783126147
+there are two zebras grazing side by side.,there are four zebras grazing side by side.,0,4.629079979
+there are two zebras grazing side by side.,there are seven zebras grazing side by side.,0,5.737848794
+there are two zebras grazing side by side.,there are six zebras grazing side by side.,0,-0.435409459
+there are two zebras grazing side by side.,there are three zebras grazing side by side.,0,6.081242778
+this pizza is cut into eight equal slices.,this pizza is cut into five equal slices.,0,-7.782295868
+this pizza is cut into eight equal slices.,this pizza is cut into four equal slices.,0,5.040700003
+this pizza is cut into eight equal slices.,this pizza is cut into six equal slices.,0,-7.40222706
+this pizza is cut into eight equal slices.,this pizza is cut into three equal slices.,0,0.332728006
+this pizza is cut into eight equal slices.,this pizza is cut into two equal slices.,0,6.564931473
+three birds are looking around while on the ground.,five birds are looking around while on the ground.,1,1.6631606
+three birds are looking around while on the ground.,four birds are looking around while on the ground.,0,-4.466144906
+three birds are looking around while on the ground.,seven birds are looking around while on the ground.,1,1.372526435
+three birds are looking around while on the ground.,six birds are looking around while on the ground.,1,1.340077433
+three birds are looking around while on the ground.,two birds are looking around while on the ground.,1,0.569793499
+three traffic lights hanging off a pole and some buildings.,five traffic lights hanging off a pole and some buildings.,0,-9.073483599
+three traffic lights hanging off a pole and some buildings.,four traffic lights hanging off a pole and some buildings.,0,-7.403380277
+three traffic lights hanging off a pole and some buildings.,one traffic lights hanging off a pole and some buildings.,0,10.80323041
+three traffic lights hanging off a pole and some buildings.,six traffic lights hanging off a pole and some buildings.,0,-3.453652575
+three traffic lights hanging off a pole and some buildings.,two traffic lights hanging off a pole and some buildings.,0,-10.92634483
+two ducks are swimming outdoors in the water.,five ducks are swimming outdoors in the water.,0,0.596177428
+two ducks are swimming outdoors in the water.,four ducks are swimming outdoors in the water.,0,1.439388774
+two ducks are swimming outdoors in the water.,seven ducks are swimming outdoors in the water.,0,1.417372131
+two ducks are swimming outdoors in the water.,six ducks are swimming outdoors in the water.,1,0.349893162
+two ducks are swimming outdoors in the water.,three ducks are swimming outdoors in the water.,0,2.293256978
+two giraffes in a zoo look at their surroundings.,five giraffes in a zoo look at their surroundings.,0,0.042683301
+two giraffes in a zoo look at their surroundings.,four giraffes in a zoo look at their surroundings.,1,0.541034064
+two giraffes in a zoo look at their surroundings.,seven giraffes in a zoo look at their surroundings.,1,0.200345727
+two giraffes in a zoo look at their surroundings.,six giraffes in a zoo look at their surroundings.,1,-0.399740369
+two giraffes in a zoo look at their surroundings.,three giraffes in a zoo look at their surroundings.,1,16.00520612
