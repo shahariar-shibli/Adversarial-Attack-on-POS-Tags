@@ -12,7 +12,7 @@ that the number of critical tokens and information fusion vary among POS tags, w
 transferability are consistent across categories.
 </p>
 
-<img src="/Images/Intro_Example.jpg" width="400" height="300">
+<div style="text-align: center;"><img src="/Images/Intro_Example.jpg" width="400" height="300"></div>
 
 - The paper **"Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation"** is accepted in [EMNLP 2024 Findings](https://2024.emnlp.org/), a top conference in Artifical Intelligence/Machine Learning/Computational Linguistics.
 
