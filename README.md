@@ -21,6 +21,8 @@ transferability are consistent across categories.
 
 ## Key Findings
 
+<p align="justify">
+
 + **Attack Success Rate (ASR):** nouns, proper nouns, adjectives are easier to attack while verbs, numerals and adverbs are the hardest.
 
 + **Correlation between ASR and the number of critical tokens:** Adverbs, numerals, and verbs are more resistant to adversarial attacks due to their dependency on
@@ -43,8 +45,11 @@ suffix can convert various input prompts with distinct attributes into images wi
 
    - We also observed that Stable Diffusion struggles to generate images involving logos.
    
+</p>
+   
 ## Repository Structure
 
+<p align="justify">
 The repository has three folders:
 
 + **Codes**: Contains the implementations in three subfolders.
@@ -63,6 +68,7 @@ The repository has three folders:
 	- **attack performance**: contains the attack evaluation results
 	- **attack success mechanism**: contains the results of average ASR by removing critical and non-critical tokens
 
+</p>
 
 ## Citation
 If you use the dataset or code, please cite the following:
