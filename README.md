@@ -1,4 +1,4 @@
-# Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation
+## Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation
 
 Recent studies show that text-to-image (T2I) models are vulnerable to adversarial attacks, especially with 
 noun perturbations in text prompts. In this study, we investigate the impact of adversarial attacks on different 
@@ -15,7 +15,7 @@ transferability are consistent across categories.
 - **Paper PDF**: https://arxiv.org/pdf/2409.15381
 
 
-# Repository Structure
+## Repository Structure
 
 The repository has three folders:
 
