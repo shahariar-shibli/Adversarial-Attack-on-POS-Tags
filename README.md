@@ -9,10 +9,9 @@ T2I models into generating images with altered tokens. Our empirical results sho
 (ASR) varies significantly among different POS tag categories, with nouns, proper nouns, and adjectives being 
 the easiest to attack. We explore the mechanism behind the steering effect of adversarial suffixes, finding 
 that the number of critical tokens and information fusion vary among POS tags, while features like suffix 
-transferability are consistent across categories.
-</p>
+transferability are consistent across categories.</p>
 
-<center><img src="/Images/Intro_Example.jpg" width="400" height="300"></center>
+<p align="center"><img src="/Images/Intro_Example.jpg" width="400" height="300"></p>
 
 - The paper **"Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation"** is accepted in [EMNLP 2024 Findings](https://2024.emnlp.org/), a top conference in Artifical Intelligence/Machine Learning/Computational Linguistics.
 
