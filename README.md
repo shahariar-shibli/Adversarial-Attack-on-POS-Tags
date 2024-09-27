@@ -31,7 +31,7 @@ is easier. However, in categories with a higher number of critical tokens, such 
 suffixes can universally transfer to other input prompts within the same POS tag. This indicates that a single adversarial
 suffix can convert various input prompts with distinct attributes into images with the same target attributes.
 
-+ ** Vulnerabilities Observed across POS Tags:** 
++ **Vulnerabilities Observed across POS Tags:** 
 
    - We noticed that the Stable Diffusion inherently faces difficulty generating images from prompts that include numerals.
    
