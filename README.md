@@ -11,11 +11,11 @@ the easiest to attack. We explore the mechanism behind the steering effect of ad
 that the number of critical tokens and information fusion vary among POS tags, while features like suffix 
 transferability are consistent across categories.</p>
 
-<p align="center"><img src="/Images/Intro_Example.jpg" width="512" height="512"></p>
+<p align="center"><img src="/Images/Poster.jpg" width="512" height="512"></p>
 
-- The paper **"Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation"** is accepted in [EMNLP 2024 Findings](https://2024.emnlp.org/), a top conference in Artifical Intelligence/Machine Learning/Computational Linguistics.
+💥🎉 The paper **"Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation"** is accepted in [Findings of EMNLP 2024](https://2024.emnlp.org/), a top conference in Artifical Intelligence/Machine Learning/Computational Linguistics.
 
-- **Paper PDF**: https://arxiv.org/pdf/2409.15381
+- **Paper PDF**: https://aclanthology.org/2024.findings-emnlp.753.pdf
 
 
 ## Key Findings
@@ -69,13 +69,21 @@ The repository has three folders:
 ## Citation
 If you use the dataset or code, please cite the following:
 ```
-@misc{shahariar2024adversarialattackspartsspeech,
-      title={Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation}, 
-      author={G M Shahariar and Jia Chen and Jiachen Li and Yue Dong},
-      year={2024},
-      eprint={2409.15381},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.15381}, 
-}
+@inproceedings{shahariar-etal-2024-adversarial,
+    title = "Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation",
+    author = "Shahariar, G M  and
+      Chen, Jia  and
+      Li, Jiachen  and
+      Dong, Yue",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.753",
+    pages = "12874--12890"
+	}
 ```
