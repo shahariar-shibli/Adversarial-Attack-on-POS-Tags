@@ -11,11 +11,11 @@ the easiest to attack. We explore the mechanism behind the steering effect of ad
 that the number of critical tokens and information fusion vary among POS tags, while features like suffix 
 transferability are consistent across categories.</p>
 
-<p align="center"><img src="/Images/Poster.jpg" width="512" height="512"></p>
+<p align="center"><img src="/Images/Poster.jpg" width="512" height="768"></p>
 
 💥🎉 The paper **"Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation"** is accepted in [Findings of EMNLP 2024](https://2024.emnlp.org/), a top conference in Artifical Intelligence/Machine Learning/Computational Linguistics.
 
-- **Paper PDF**: https://aclanthology.org/2024.findings-emnlp.753.pdf
+📂 **Paper PDF**: https://aclanthology.org/2024.findings-emnlp.753.pdf
 
 
 ## Key Findings
@@ -85,5 +85,5 @@ If you use the dataset or code, please cite the following:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-emnlp.753",
     pages = "12874--12890"
-	}
+}
 ```
